@@ -4,9 +4,9 @@
 
 Sugarizer is a free/libre learning platform. The Sugarizer UI uses ergonomic principles from The [Sugar platform](https://sugarlabs.org/), developed for the One Laptop per Child project and used by more than 2 million children around the world.
 
-Sugarizer runs on every device: laptops, desktops, tiny computers, tablets or smartphones.
+Sugarizer runs on many device: laptops, desktops, tiny computers, tablets or smartphones.
 
-Sugarizer includes a large set of pedagogic activities thought for children, see [here](https://sugarizer.org/activities.html) for a full list.
+Sugarizer includes a large set of pedagogical activities designed for children, see [here](https://sugarizer.org/activities.html) for a full list.
 
 Sugarizer is available as:
 
